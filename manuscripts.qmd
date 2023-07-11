@@ -1,0 +1,47 @@
+---
+title: Manuscript Demo
+format: 
+  revealjs:
+    css: custom.css
+---
+
+## Manuscripts
+
+{{< video manuscript-demo.mp4 >}}
+
+::: {.notes}
+Example manuscript output:
+
+- Article available in multiple formats
+- Include computational notebooks 
+- Easily add:
+    - Cross references
+    - Figures and tables 
+    - Citations
+- Outputs linked back to notebooks that created them
+
+:::
+
+## Manuscripts: Article page
+
+![](images/article-view.png)
+
+## Manuscripts: Multiple formats
+
+![](images/multiple-formats.png)
+
+## Manuscripts: Include notebooks
+
+![](images/links-to-notebooks.png)
+
+## Manuscripts: Embed output
+
+![](images/embedded-output.png)
+
+## Manuscripts: Link back to source
+
+![](images/link-to-source.png)
+
+## Manuscripts: View of source
+
+![](images/notebook-view.png)
